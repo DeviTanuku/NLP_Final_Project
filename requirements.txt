@@ -1,0 +1,13 @@
+transformers
+datasets
+sentencepiece
+evaluate
+optuna
+gradio
+nltk
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+torch
